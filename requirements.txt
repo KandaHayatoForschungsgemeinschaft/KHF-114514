@@ -1,0 +1,4 @@
+faster-whisper==1.1.1
+ctranslate2==4.5.0
+av==14.2.0
+numpy==1.26.4
